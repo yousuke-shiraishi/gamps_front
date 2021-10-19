@@ -23,7 +23,6 @@ yarn-error.log*
 build/
 public/
 **/coverage/
-**/node_modules/
 **/*.min.js
 *.config.js
 .env
